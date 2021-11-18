@@ -1,0 +1,4 @@
+- repo: iamcco/markdown-preview.nvim
+- repo: wikitopian/hardmode
+- repo: karb94/neoscroll.nvim
+- { repo: kristijanhusak/orgmode.nvim, if: 0 }
